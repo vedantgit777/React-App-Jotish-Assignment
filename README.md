@@ -83,15 +83,19 @@ Login → List → Details (Chart + Map) → Capture Photo
 
 ## 📸 Screenshots
 Login page:
+
 <img width="1912" height="871" alt="Screenshot 2026-02-24 172606" src="https://github.com/user-attachments/assets/1d435193-9c22-4cc7-86e0-17813c9425f7" />
 
 Main website:
+
 <img width="1904" height="867" alt="Screenshot 2026-02-24 172631" src="https://github.com/user-attachments/assets/eea17cef-78d3-495b-976a-2c806b1fc085" />
 
 Chart:
+
 <img width="1901" height="865" alt="Screenshot 2026-02-24 172702" src="https://github.com/user-attachments/assets/db6250f3-c7b8-4406-8368-7aab64b6824e" />
 
 Maps:
+
 <img width="1901" height="648" alt="Screenshot 2026-02-24 172713" src="https://github.com/user-attachments/assets/eec182bd-ca87-4074-bcf2-756bf5bff147" />
 
 
